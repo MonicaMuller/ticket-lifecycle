@@ -58,7 +58,7 @@ Now that the ticket has been assigned to the appropriate department and people, 
 <img src="https://i.imgur.com/bGBEWM7.png" height="70%" width="70%"/>
 </p>
 <p>
-Once the issue has been resolved, the ticket can be closed. In the osTicket system, the ticket will move from the Open section to the Closed section in this stage. For helpdesk professionals, it is important to know where to find closed tickets since they can be browsed and used to find solutions to open tickets.
+Once the issue has been resolved, the ticket can be closed. In the osTicket system, the ticket will move from the Open section to the Closed section in this stage. For IT professionals, it is important to know where to find closed tickets since they can be browsed and used to find solutions to open tickets.
 </p>
 <br />
 
