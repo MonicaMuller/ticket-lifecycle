@@ -63,6 +63,6 @@ Once the issue has been resolved, the ticket can be closed. In the osTicket syst
 <br />
 
 <p>
-😄 Those are the four stages of the ticket lifecycle! Tickets are an important part of IT, whether you’re working in helpdesk, systems, networking, security, cloud, etc., so it’s important to be familiar with how ticketing systems work.
+✨ Those are the four stages of the ticket lifecycle! Tickets are an important part of IT, whether you’re working in helpdesk, systems, networking, security, cloud, etc., so it’s important to be familiar with how ticketing systems work.
 </p>
 <br />
